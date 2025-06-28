@@ -466,22 +466,6 @@
             margin-right: 0.5rem;
         }
 
-        .delete-btn {
-            background: red;
-            color: white;
-            border: none;
-            padding: 0.75rem 2rem;
-            border-radius: 0.375rem;
-            font-size: 1rem;
-            cursor: pointer;
-            width: 50%;
-            margin-top: 1rem;
-        }
-
-        .delete-btn:hover {
-            background: #dc1919;
-        }
-
         /* Orders Section */
         .order-item {
             border: 1px solid #e9ecef;
@@ -580,4 +564,3 @@
                     padding: 1rem;
                 }
             }
-
